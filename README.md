@@ -1,4 +1,4 @@
-# my-music-therapy
+# My Music Playlist
 
 Collection of favorite contemporary classical music. By far (2024 CE), it is a selection of tracks from video game soundtracks, which feature orchestral music. It is divided into two directories: ``classical``, which contains more balanced works; and ``soundtracks``, which are more liberal. In particular, the latter are more oriented toward creating a particular setting or climate for the video game (such as Japanese, Nordic, Country…).
 
