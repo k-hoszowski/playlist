@@ -6,4 +6,6 @@ The majority of songs were downloaded from YouTube.com on the basis of fair use.
 
 All the files have basic metadata: Author + Composer, Title, Album, Date (YEAR). However, since getting all the facts is difficult, I only did a basic search online for this information. Therefore, I cannot guarantee the correctness (or, rather, completeness) of these tags. For example, the album names are chosen arbitrarily by me. Futhermore, all the tracks have ReplayGain 2.0 tags (track gain only). They were generated using [loudgain](https://github.com/Moonbase59/loudgain/): ``loudgain -k -s i FILES``. The ``-k`` flag means clipping was avoided.
 
+Soundtracks I will consider in the future: Wargroove
+
 I hope you'll enjoy it. Have a good day!
