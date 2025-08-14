@@ -6,6 +6,6 @@ All the tracks have [Replay Gain](https://quodlibet.readthedocs.io/en/latest/gui
 
 The majority of songs were downloaded from YouTube.com on the basis of fair use. For this purpose I used [yt-dlp](https://github.com/yt-dlp/yt-dlp#readme). The vast majority of the songs are in Ogg Opus format. However, individual files are Ogg Vorbis and FLAC. Compositions by Paul Anthony Romero and Rob King are in MP3 format. These exceptions exist because they were downloaded directly from the authors in the original format (like [Wesnoth Project](https://github.com/wesnoth/wesnoth/tree/master/data/core/music) and [SoundCloud](https://soundcloud.com/paul-anthony-romero/sets/heroes-of-might-magic-music-by)).
 
-New soundtrack: Wargroove, made by [Pete Lepley (FKA Phonetic Hero)](https://petelepley.bandcamp.com/album/wargroove-original-game-soundtrack). It's absolutely phenomenal, thank you Pete!
+New soundtrack added June 4th: Sakura Wars 5, composed by Kohei Tanaka and made by many artists. An empowering combination of jazz, j-pop, and classical music!
 
 Let me know if you enjoy the playlist. I wish you an amazing day!
