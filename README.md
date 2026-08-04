@@ -6,6 +6,6 @@ All the tracks have [Replay Gain](https://quodlibet.readthedocs.io/en/latest/gui
 
 The majority of songs were downloaded from YouTube.com on the basis of fair use. For this purpose I used [yt-dlp](https://github.com/yt-dlp/yt-dlp#readme). The vast majority of the songs are in Ogg Opus format. However, individual files are Ogg Vorbis and FLAC. Compositions by Paul Anthony Romero and Rob King are in MP3 format. These exceptions exist because they were downloaded directly from the authors in the original format (like [Wesnoth Project](https://github.com/wesnoth/wesnoth/tree/master/data/core/music) and [SoundCloud](https://soundcloud.com/paul-anthony-romero/sets/heroes-of-might-magic-music-by)).
 
-New soundtrack: Horizon Zero Dawn.
+Recent development: I had an opportunity to go through all the songs thoroughly, and delete what slipped through before. Moreover, I divided the songs into two playlists: Relaxing and Stimulating. The songs in Relaxing playlist I find suitable for going to sleep. Stimulating are the other songs that would disrupt my sleep. They're now available as M3U files, with the songs in random order. I used Quod Libet's Shuffle Playlist plugin for that.
 
-Let me know if you enjoy the playlist. I wish you an amazing day!
+Let me know if you enjoy the playlist. I wish you an amazing time!
